@@ -1,4 +1,4 @@
-name = "yx-auto"
+name = "yx-auto-zh"
 main = "_worker.js"
 compatibility_date = "2026-02-01"
 
